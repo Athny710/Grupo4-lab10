@@ -1,21 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d690b99b-35d9-4257-acc8-6cfcd3b2e8cd" name="Default Changelist" comment="" />
+    <list default="true" id="d690b99b-35d9-4257-acc8-6cfcd3b2e8cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preg2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../preg2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preg3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../preg3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../preg4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../preg4/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1eeabQmafmgSUa5xFuM9nTMuiuN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="javascript.nodejs.core.library.configured.version" value="12.18.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../preg2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab8/LAb9-GRUPO4" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -27,13 +49,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1594684582671</updated>
+      <workItem from="1594685080059" duration="2852000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594685085328">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594685921352">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594685085328" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1594685921352" />
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1594685877418">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="117" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.824@0.0.1536.824" timestamp="1594685877418" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1594686505072">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1594686505072" />
+    <state x="485" y="220" key="jetbrains.nodejs.interpreters-dialog" timestamp="1594685873541">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="485" y="220" key="jetbrains.nodejs.interpreters-dialog/0.0.1536.824@0.0.1536.824" timestamp="1594685873541" />
   </component>
 </project>
